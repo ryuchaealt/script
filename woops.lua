@@ -8,7 +8,7 @@ local DR = script.Parent.DFR
 local Sound = script.Parent.DFR.A
 local light = script.Parent.Parent.Parent.Body.DoorLight.L
 local driveSeat = script.Parent.Parent.Parent.DriveSeat
-local url = "https://raw.githubusercontent.com/ryu-chae/License/refs/heads/main/license.txt?token=GHSAT0AAAAAAC6VI36L2OYVYR2D5QCVEKBKZ5MOHBQ" -- TXT 파일 URL
+local url = "https://raw.githubusercontent.com/ryuchaealt/script/refs/heads/main/licenselist.txt" -- TXT 파일 URL
 
 local fdoortime = 3.8
 local fdoortime1 = 4.5
